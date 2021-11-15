@@ -65,6 +65,6 @@ function XXX() {
 待补充
 
 - [ ] 生命周期
-- [ ] 更多的控制方法如 getKeepings、clear
-- [ ] umi-next-plugin
-- [ ] 打赏二维码
+- [ ] 黑白名单模式（目前为黑名单模式）
+- [ ] 更多的控制方法如 getKeepings、clear 等
+- [ ] umi-plugin
